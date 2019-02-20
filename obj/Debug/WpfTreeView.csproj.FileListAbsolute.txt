@@ -1,0 +1,15 @@
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csprojAssemblyReference.cache
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.g.cs
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\App.g.cs
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.exe
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.pdb
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe.config
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.pdb
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.baml
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.g.resources
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.cache
+E:\TURASH\DEV_environment\C_Sharp\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
